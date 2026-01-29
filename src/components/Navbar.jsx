@@ -24,7 +24,7 @@ const Navbar = () => {
           </div>
 
           <div className="flex items-center gap-6">
-            <Link to="/" className="text-gray-600 hover:text-primary-600">Search</Link>
+            <Link to="/" className="text-gray-600 hover:text-primary-600">Book Your Tickets Now</Link>
             
             {isAuthenticated ? (
               <>

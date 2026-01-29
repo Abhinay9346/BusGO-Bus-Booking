@@ -39,7 +39,7 @@ const BusCard = ({ bus, onSelect }) => {
         <div className="flex flex-col items-end justify-between border-t md:border-t-0 md:border-l pt-4 md:pt-0 md:pl-8">
           <div className="text-right">
             <p className="text-sm text-gray-400">Starts from</p>
-            <p className="text-2xl font-bold text-primary-600">${bus.price}</p>
+            <p className="text-2xl font-bold text-primary-600">₹{bus.price}</p>
           </div>
           <div className="mt-4 md:mt-0">
             <p className="text-xs text-gray-500 mb-2">{bus.availableSeats.length} Seats left</p>

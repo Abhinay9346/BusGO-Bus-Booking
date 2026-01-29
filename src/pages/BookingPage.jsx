@@ -61,7 +61,7 @@ const BookingPage = () => {
               <div className="border-t pt-4">
                 <div className="flex justify-between items-center mb-6">
                   <span className="text-gray-600">Total Fare</span>
-                  <span className="text-2xl font-bold text-primary-600">${total}</span>
+                  <span className="text-2xl font-bold text-primary-600">₹{total}</span>
                 </div>
                 <button
                   onClick={() => navigate('/checkout')}
