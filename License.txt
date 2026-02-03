@@ -1,0 +1,25 @@
+Copyright (c) 2026 Nagireddi Abhinay
+
+All Rights Reserved.
+
+This software and its source code are the exclusive property of
+Nagireddi Abhinay.
+
+No part of this software may be:
+
+- copied
+- modified
+- merged
+- published
+- distributed
+- sublicensed
+- sold
+- or used commercially
+
+without prior written permission from the copyright holder.
+
+Unauthorized use, reproduction, or distribution of this software
+or any portion of it is strictly prohibited and may result in
+civil and criminal penalties under applicable copyright laws.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
