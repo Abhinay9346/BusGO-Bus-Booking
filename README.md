@@ -146,18 +146,9 @@ npm run dev
 - Secure environment variables
 
 ---
+🔗 **Live Demo:** https://busgo.vercel.app
 
-## 📸 Screenshots
 
-(Optional)
-
-Create a folder named:
-
-```
-screenshots/
-```
-
-Add UI images here.
 
 ---
 
