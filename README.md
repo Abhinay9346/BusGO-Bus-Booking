@@ -146,7 +146,15 @@ npm run dev
 - Secure environment variables
 
 ---
-🔗 **Live Demo:** https://busgo.vercel.app
+## 🌐 Live Application
+
+🚀 **Live URL:** https://busgo.vercel.app  
+
+The application is deployed and fully functional, allowing users to:
+- Search buses
+- Book seats
+- Make payments
+- View booking history
 
 
 
